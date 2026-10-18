@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shaira
 - 👀 I’m interested in anything Tech & Science
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on creative coding projects
+- 🌱 I’m currently learning new tech stacks, system design, and open-source workflows
+- 💞️ I’m looking to collaborate on creative coding projects or anything unique!
 
 
 <!---
